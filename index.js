@@ -53,7 +53,7 @@ const FUTBOLISTAS = [
   'Colombia', 'Uruguay', 'Chile', 'España', 'Francia', 'Un show más',
   'agar.io', 'Friv', 'Steve (minecraft)', 'pilín', 'Pileta',
   'Cristina Kichner', 'Perón', 'Covid-19', 'UniversoCraft',
-  'Free Fire', 'Breaking Bad', 'Walter White', 'Pinterest'
+  'Free Fire', 'Breaking Bad', 'Walter White', 'Pinterest',
   'Pollera',	
 ];
 
